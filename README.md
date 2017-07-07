@@ -1,6 +1,6 @@
 # No, my name is not…
 
-With the [Levenshtein distance](https://planetcalc.com/1721/).
+With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) ([fr](https://fr.wikipedia.org/wiki/Distance_de_Levenshtein "Distance de Levenshtein")).
 
 | Wrong                     | Distance   |
 |---------------------------|:----------:|
