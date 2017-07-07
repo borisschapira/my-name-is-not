@@ -3,7 +3,7 @@
 With the [Levenshtein distance](https://planetcalc.com/1721/).
 
 | Wrong                     | Distance   |
-|---------------------------|*----------*|
+|---------------------------|:----------:|
 | CHAPIRA                   |     1      |
 | CHARIPA                   |     3      |
 | SCAPIRA                   |     1      |
