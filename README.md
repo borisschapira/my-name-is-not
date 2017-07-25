@@ -6,11 +6,13 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 |---------------------------|:----------:|
 | CHAPIRA                   |     1      |
 | CHAPIRAT                  |     2      |
-| **CHARIPA**                   |     **3**      |
+| **CHARIPA**               |   **3**    |
 | SCAPIRA                   |     1      |
+| SCHAPI                    |     2      |
+| SCHAPI RA                 |     1      |
 | SCHAPPIRA                 |     1      |
 | SHAKIRA                   |     2      |
 | SHAPIRA                   |     1      |
 | SHAPIRO                   |     2      |
-| **SHAPRIA**                   |     **3**      |
-| **SHARPIA**                   |     **3**      |
+| **SHAPRIA**               |   **3**    |
+| **SHARPIA**               |   **3**    |
