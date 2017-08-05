@@ -7,6 +7,7 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | **CHABRIA**               |   **4**    |
 | CHAPIRA                   |     1      |
 | CHAPIRAT                  |     2      |
+| CHAPIRON                  |     3      |
 | CHARIPA                   |     3      |
 | SCAPIRA                   |     1      |
 | SCHAPI                    |     2      |
