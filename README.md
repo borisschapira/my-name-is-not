@@ -17,4 +17,5 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | SHAPIRA                   |     1      |
 | SHAPIRO                   |     2      |
 | SHAPRIA                   |     3      |
-| SHARPIA                   |     3      |
+| SHARPIA                   |     3      |
+| SHARIKA                   |     3      |
