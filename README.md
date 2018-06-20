@@ -14,6 +14,7 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | SCHAPI                    |     2      |
 | SCHAPI RA                 |     1      |
 | SCHAPPIRA                 |     1      |
+| SCHIAPPIRA                |     2      |
 | SHAKIRA                   |     2      |
 | SHAPIRA                   |     1      |
 | SHAPIRO                   |     2      |
