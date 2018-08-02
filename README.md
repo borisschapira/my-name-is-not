@@ -9,12 +9,14 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | CHAPIRAT                  |     2      |
 | CHAPIRON                  |     3      |
 | CHARIPA                   |     3      |
-| **CHATERIN**              |   **5**    |
+| **CHATELIN**              |   **6**    |
+| CHATERIN                  |     5      |
 | SCAPIRA                   |     1      |
 | SCHADIRA                  |     1      |
 | SCHAPI                    |     2      |
 | SCHAPI RA                 |     1      |
 | SCHAPPIRA                 |     1      |
+| SCHARIPA                  |     2      |
 | SCHIAPPIRA                |     2      |
 | SHAKIRA                   |     2      |
 | SHAPIRA                   |     1      |
