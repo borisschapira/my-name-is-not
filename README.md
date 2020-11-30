@@ -14,8 +14,10 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | CHATERIN                  |     5      |
 | SCAPIRA                   |     1      |
 | SCHADIRA                  |     1      |
+| SCHAPARIA                 |     2      |
 | SCHAPI                    |     2      |
 | SCHAPI RA                 |     1      |
+| SCHAPIARA                 |     1      |
 | SCHAPPIRA                 |     1      |
 | SCHARIPA                  |     2      |
 | SCHIPIRA                  |     1      |
