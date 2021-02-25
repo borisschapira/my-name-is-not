@@ -9,6 +9,7 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | CHAPIRAT                  |     2      |
 | CHAPIRON                  |     3      |
 | CHARCHIRA                 |     4      |
+| CHASSERAIN                |   **6**    |
 | CHARIPA                   |     3      |
 | **CHATELIN**              |   **6**    |
 | CHATERIN                  |     5      |
