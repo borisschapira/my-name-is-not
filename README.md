@@ -14,6 +14,7 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | **CHATELIN**              |   **6**    |
 | CHATERIN                  |     5      |
 | SCAPIRA                   |     1      |
+| SCAPULA                   |     3      |
 | SCHADIRA                  |     1      |
 | SCHAPARIA                 |     2      |
 | SCHAPI                    |     2      |
