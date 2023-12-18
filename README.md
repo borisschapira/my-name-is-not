@@ -23,6 +23,7 @@ With the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distan
 | SCHAPPIRA                 |     1      |
 | SCHARIPA                  |     2      |
 | SCHATIRA                  |     1      |
+| SCHÉPARI                  |     3      |
 | SCHIPIRA                  |     1      |
 | SCHIAPPA                  |     3      |
 | SCHIAPPIRA                |     2      |
